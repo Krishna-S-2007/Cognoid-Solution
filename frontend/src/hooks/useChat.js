@@ -32,7 +32,7 @@ export function useChat() {
 
         try {
             // Step C: Make a standard network call to our FastAPI server
-            const response = await fetch("http://localhost:8000/api/chat", {
+            const response = await fetch("https://cognoid-solution.onrender.com/api/chat", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
