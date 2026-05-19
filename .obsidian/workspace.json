@@ -200,6 +200,7 @@
   },
   "active": "165dcf65d213eeb7",
   "lastOpenFiles": [
+    "frontend_study_guide.md",
     "backend/requirements.txt",
     "embed-snippet.js",
     "javascript_html_for_python_devs.md",
@@ -212,7 +213,6 @@
     "backend/app/services",
     "backend/app/schema.py",
     "backend/app/config.py",
-    "backend/app/main.py",
-    "backend/app/__init__.py"
+    "backend/app/main.py"
   ]
 }
