@@ -5,7 +5,7 @@ fastapi==0.110.0
 uvicorn==0.28.0
 
 # groq is the official software development kit (SDK) to talk to Groq's high-speed AI models
-groq==0.5.0
+groq>=0.9.0
 
 # pydantic-settings extends Pydantic to read environment variables from our .env file securely
 pydantic-settings==2.2.1
