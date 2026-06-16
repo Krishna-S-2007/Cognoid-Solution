@@ -32,7 +32,16 @@ function App() {
             <code>&lt;/body&gt;</code> tag on your site.
           </p>
           <code>
-            {`<script src="https://cognoid-solution.vercel.app/embed-snippet.js" defer></script>`}
+            {"<script src=\""}
+            <a 
+              href="https://cognoid-solution.vercel.app/embed-snippet.js" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              style={{ color: "#38bdf8", textDecoration: "underline" }}
+            >
+              https://cognoid-solution.vercel.app/embed-snippet.js
+            </a>
+            {"\" defer></script>"}
           </code>
         </div>
 
