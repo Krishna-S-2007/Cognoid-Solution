@@ -4,8 +4,7 @@
  * To deploy the Cognoid AI Chatbot onto any website, copy and paste the following script tag
  * right before the closing </body> tag:
  * 
- * <script src="http://localhost:5173/embed-snippet.js" defer></script>
- * (Replace http://localhost:5173 with your deployed production URL, like Vercel or Netlify)
+ * <script src="https://cognoid-chatbot.vercel.app/embed-snippet.js" defer></script>
  */
 
 (function () {
@@ -14,7 +13,7 @@
   window.__CognoidChatbotLoaded = true;
 
   // Configuration
-  const WIDGET_URL = "https://cognoid-chatbot.vercel.app"; // Update to production URL when deployed
+  const WIDGET_URL = "https://cognoid-chatbot.vercel.app"; // Pointing to production URL
   const IFRAME_ID = "cognoid-chatbot-iframe";
   
   // Dimensions
