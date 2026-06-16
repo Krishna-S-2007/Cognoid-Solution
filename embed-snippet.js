@@ -14,7 +14,7 @@
   window.__CognoidChatbotLoaded = true;
 
   // Configuration
-  const WIDGET_URL = "https://cognoid-chatbot.vercel.app"; // Update to production URL when deployed
+  const WIDGET_URL = "https://cognoid-solution.vercel.app"; // Update to production URL when deployed
   const IFRAME_ID = "cognoid-chatbot-iframe";
   
   // Dimensions

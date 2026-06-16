@@ -32,7 +32,7 @@ function App() {
             <code>&lt;/body&gt;</code> tag on your site.
           </p>
           <code>
-            {`<script src="https://cognoid-chatbot.vercel.app/embed-snippet.js" defer></script>`}
+            {`<script src="https://cognoid-solution.vercel.app/embed-snippet.js" defer></script>`}
           </code>
         </div>
 
